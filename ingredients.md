@@ -3,7 +3,7 @@ tomato sauce
 
 
 pineapple
-cheese
+lamb
 wagyu pattie
 
 bottom bun
