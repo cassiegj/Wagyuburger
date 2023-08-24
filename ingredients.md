@@ -1,9 +1,9 @@
 top bun
+lettuce (Added by Caleb)
+Cheese (Added by Luke)
 
-
-lettuce
 pineapple
-cheddar cheese
+Lettuce (Added by Luke)
 wagyu pattie
-crinkle-cut pickles
+crinkle-cut pickles (Added by Caleb)
 bottom bun
